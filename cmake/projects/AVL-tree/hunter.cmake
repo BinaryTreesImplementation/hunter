@@ -8,7 +8,7 @@ hunter_add_version(
     PACKAGE_NAME
     AVL-tree
     VERSION
-    "0.0.321"
+    "0.0.123"
     URL
     "https://github.com/BinaryTreesImplementation/AVL-tree/archive/v0.0.123.tar.gz"
     SHA1
