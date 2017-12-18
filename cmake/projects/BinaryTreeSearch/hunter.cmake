@@ -10,9 +10,9 @@ hunter_add_version(
     VERSION
     "0.2"
     URL
-    "https://github.com/BinaryTreesImplementation/BinaryTreeSearch/archive/v0.2.tar.gz"
+    "https://github.com/BinaryTreesImplementation/BinaryTreeSearch/archive/v0.3.tar.gz"
     SHA1
-    c484d7593218d54437be443ca0a0fc0119ebab41
+    687eb9a78f9ddb3f9d4f54880cb1e8b14a3f7a33
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
