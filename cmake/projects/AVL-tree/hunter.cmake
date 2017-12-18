@@ -8,11 +8,11 @@ hunter_add_version(
     PACKAGE_NAME
     AVL-tree
     VERSION
-    "0.2"
+    "0.3"
     URL
-    "https://github.com/BinaryTreesImplementation/AVL-tree/archive/v0.2.tar.gz"
+    "https://github.com/BinaryTreesImplementation/AVL-tree/archive/v0.3.tar.gz"
     SHA1
-    f4c1c59790e4fc6db1046c0d6120e7458c2b0a78
+    57e3add464da0a8e2ce249676a2c603930b4d53d
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)

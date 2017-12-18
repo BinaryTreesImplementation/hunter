@@ -8,7 +8,7 @@ hunter_add_version(
     PACKAGE_NAME
     BinaryTreeSearch
     VERSION
-    "0.2"
+    "0.3"
     URL
     "https://github.com/BinaryTreesImplementation/BinaryTreeSearch/archive/v0.3.tar.gz"
     SHA1
