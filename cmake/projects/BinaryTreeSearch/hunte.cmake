@@ -6,13 +6,13 @@ include(hunter_pick_scheme)
 
 hunter_add_version(
     PACKAGE_NAME
-    AVL-tree
+    BinaryTreeSearch
     VERSION
     "0.2"
     URL
-    "https://github.com/BinaryTreesImplementation/AVL-tree/archive/v0.2.tar.gz"
+    "https://github.com/BinaryTreesImplementation/BinaryTreeSearch/archive/0.1.tar.gz"
     SHA1
-    f4c1c59790e4fc6db1046c0d6120e7458c2b0a78
+    6fea7f929f08bb311eb6138b6a7eaec9296074da
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
@@ -23,5 +23,6 @@ hunter_cmake_args(
     BUILD_EXAMPLES=NO
     BUILD_TESTS=NO
 )
-hunter_cacheable(AVL-tree)
-hunter_download(PACKAGE_NAME AVL-tree)
+hunter_cacheable(BinaryTreeSearch)
+hunter_download(PACKAGE_NAME BinaryTreeSearch)
+
