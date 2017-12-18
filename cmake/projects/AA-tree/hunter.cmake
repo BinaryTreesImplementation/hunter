@@ -10,7 +10,7 @@ hunter_add_version(
     VERSION
     "0.2"
     URL
-    "https://github.com/BinaryTreesImplementation/AA-tree/archive/0.2.tar.gz"
+    "https://github.com/BinaryTreesImplementation/AA-tree/archive/v0.2.tar.gz"
     SHA1
     c78155b3422c0f8590b8c688bfa607494c60331d
 )
