@@ -8,11 +8,11 @@ hunter_add_version(
     PACKAGE_NAME
     AA-tree
     VERSION
-    "0.2"
+    "0.3"
     URL
-    "https://github.com/BinaryTreesImplementation/AA-tree/archive/v0.2.tar.gz"
+    "https://github.com/BinaryTreesImplementation/AA-tree/archive/v0.3.tar.gz"
     SHA1
-    c78155b3422c0f8590b8c688bfa607494c60331d
+    9f1a881d29fd3edb03e0bbbb068586d653690c5c
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)

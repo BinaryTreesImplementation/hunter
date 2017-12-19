@@ -8,11 +8,11 @@ hunter_add_version(
     PACKAGE_NAME
     Treap
     VERSION
-    "0.1"
+    "0.2"
     URL
-    "https://github.com/BinaryTreesImplementation/Treap/archive/v0.1.tar.gz"
+    "https://github.com/BinaryTreesImplementation/Treap/archive/v0.2.tar.gz"
     SHA1
-    8b745b3c40fc5fb098f61e416d97497f9546f6cd
+    f950cafab2b29c7c1a6e9b7c03a8bb6797c93e0e
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
