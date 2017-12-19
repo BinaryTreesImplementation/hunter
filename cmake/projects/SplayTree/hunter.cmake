@@ -8,11 +8,11 @@ hunter_add_version(
     PACKAGE_NAME
     SplayTree
     VERSION
-    "0.5"
+    "0.6"
     URL
-    "https://github.com/BinaryTreesImplementation/SplayTree/archive/v0.5.tar.gz"
+    "https://github.com/BinaryTreesImplementation/SplayTree/archive/v0.6.tar.gz"
     SHA1
-    c6ece9809a94f8241cb851d39d59140411daf88d
+    cf4904019e0a482fb74b65d32b20f1faf35e62d4
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
