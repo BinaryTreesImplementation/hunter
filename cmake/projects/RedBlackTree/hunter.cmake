@@ -8,11 +8,11 @@ hunter_add_version(
     PACKAGE_NAME
     RedBlackTree
     VERSION
-    "0.6"
+    "0.7"
     URL
-    "https://github.com/BinaryTreesImplementation/RedBlackTree/archive/v0.6.tar.gz"
+    "https://github.com/BinaryTreesImplementation/RedBlackTree/archive/v0.7.tar.gz"
     SHA1
-    e263559608e8a442fd7315c6bed24e995e67bb37
+    0052e7a4b37827244d0343806ec125c032d87faf
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
